@@ -6,6 +6,8 @@ https://github.com/coding-to-music/unmanic-documentation-docusaurus-charts
 
 https://coding-to-music.github.io/unmanic-documentation-docusaurus-charts
 
+https://unmanic-documentation-docusaurus-charts.vercel.app/stats/
+
 https://unmanic-documentation-docusaurus-charts.vercel.app
 
 From / By https://github.com/Unmanic/unmanic-documentation
