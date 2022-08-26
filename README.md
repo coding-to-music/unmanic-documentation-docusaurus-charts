@@ -1,3 +1,36 @@
+# unmanic-documentation-docusaurus-charts
+
+# 🚀 Docusaurus Charts 🚀
+
+https://github.com/coding-to-music/unmanic-documentation-docusaurus-charts
+
+https://coding-to-music.github.io/unmanic-documentation-docusaurus-charts
+
+https://unmanic-documentation-docusaurus-charts.vercel.app
+
+From / By https://github.com/Unmanic/unmanic-documentation
+
+https://docs.unmanic.app/stats
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/unmanic-documentation-docusaurus-charts.git
+git push -u origin main
+npm run deploy:vercel
+```
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
